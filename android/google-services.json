@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083834966279",
+    "project_id": "tagrobtech",
+    "storage_bucket": "tagrobtech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083834966279:android:aad0c47a6233747f5965a2",
+        "android_client_info": {
+          "package_name": "com.example.tagrobotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083834966279-k5tvgjisqrfm8e893t97dqb5pdiall0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tagrobotech",
+            "certificate_hash": "6fc04e35a06498cefb88f4fb8dae848bc7eb28fe"
+          }
+        },
+        {
+          "client_id": "1083834966279-jphic3a7erislej9u8v63ikmaj3mm1nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Sb4rxwTNWmqKrPpCnfbv3G36LVqK4ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083834966279-jphic3a7erislej9u8v63ikmaj3mm1nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
