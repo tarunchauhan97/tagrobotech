@@ -1,16 +1,27 @@
 # tagrobotech
 
-A new Flutter project.
 
-## Getting Started
+## 📱 Screenshots
+|                                                     Home Screen                                                      |                                                   Store Screen Screen                                                   |
+|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
+| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://user-images.githubusercontent.com/30916033/188298233-a1ef00d7-c880-4771-b842-215fe79aef9f.png">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://user-images.githubusercontent.com/30916033/188298249-eaee3539-b7af-42d2-9ae4-e2f6474ddd83.png">|
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+|  Verification                                          |                                               Details                                             |
+|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+| <img width="1440" alt="Screen Shot 2020-09-17 at 3 49 08 PM" src="https://user-images.githubusercontent.com/30916033/188298263-aebed15a-51e6-4b9e-bb3c-ff1308fb94c3.png"> | <img width="1440" alt="Screen Shot 2020-09-17 at 3 40 20 PM" src="https://user-images.githubusercontent.com/30916033/188298284-a059a1e9-fefb-43f1-8902-bec6bbdb7dd7.png"> |
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|  Select Pv Device Box                                          |                                               Details                                             |
+|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+| <img width="1440" alt="Screen Shot 2020-09-17 at 3 49 08 PM" src="https://user-images.githubusercontent.com/30916033/188298295-743eea0f-8f7d-4982-b8f4-bd7eb93aea6f.png"> | <img width="1440" alt="Screen Shot 2020-09-17 at 3 40 20 PM" src="https://user-images.githubusercontent.com/30916033/188298284-a059a1e9-fefb-43f1-8902-bec6bbdb7dd7.png"> |
+
+
+
+
+## © License 
+
+```
+MIT License
+
+Copyright (c) 2022 Tarun Singh Chauhan
